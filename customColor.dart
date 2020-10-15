@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 //createMaterialColor(Color(0xFF000000))
+//The hex color code is started from darkness strength i.e. FF means full dark followed by hex color codes as RRGGBB
 
 MaterialColor createMaterialColor(Color color) {
   List strengths = <double>[.05];
